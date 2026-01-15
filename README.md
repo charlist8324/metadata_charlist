@@ -20,7 +20,7 @@
 
 - 安全的密码存储
 
-  ![dashbord](D:\python\py_opencode\metadata_manager - v1.0\pic\dashbord.jpg)
+![描述](./pic/source.jpg)
 
 ### 元数据抽取
 - **全量抽取**：抽取数据源中的所有表元数据
@@ -32,8 +32,8 @@
 - 自动获取表结构、字段信息、统计数据
 
 - 支持表间关联关系（外键）抽取
+  ![描述](./pic/etl_his.jpg)
 
-  ![etl_his](D:\python\py_opencode\metadata_manager - v1.0\pic\etl_his.jpg)
 
 ### 元数据浏览
 - 直观的表格展示
@@ -46,9 +46,8 @@
 
 - 表统计信息（行数、数据大小）
 
-  ![image-20260115105010383](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20260115105010383.png)
-
-  ![image-20260115105100118](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20260115105100118.png)
+  ![描述](./pic/metadta.jpg)
+  ![描述](./pic/table.jpg)
 
 ### ETL任务管理
 - 可视化任务创建和配置
@@ -62,7 +61,7 @@
 
 - 任务状态管理和执行历史追踪
 
-  ![etl](D:\python\py_opencode\metadata_manager - v1.0\pic\etl.jpg)
+  ![描述](./pic/etl.jpg)
 
 ### 用户权限管理
 - 多角色支持：
@@ -76,7 +75,7 @@
 
 - 操作权限控制
 
-  ![user](D:\python\py_opencode\metadata_manager - v1.0\pic\user.jpg)
+  ![描述](./pic/user.jpg)
 
 ### 数据统计分析
 - 资源概览仪表板
